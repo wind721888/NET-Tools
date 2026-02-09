@@ -1,0 +1,4 @@
+<Solution>  
+  <Project Path="Receiver/Receiver.csproj" Id="64948b40-fa0e-47fb-b1f1-b7113a6c871b" />
+  <Project Path="Sender/Sender.csproj" Id="e5731b18-14ed-4a22-913a-a0f33977b4a6" />
+</Solution>

@@ -1,0 +1,7 @@
+C:\Users\wind7\Desktop\MSMQ\Receiver\bin\Debug\MSMQReceiver.exe.config
+C:\Users\wind7\Desktop\MSMQ\Receiver\bin\Debug\MSMQReceiver.exe
+C:\Users\wind7\Desktop\MSMQ\Receiver\bin\Debug\MSMQReceiver.pdb
+C:\Users\wind7\Desktop\MSMQ\Receiver\obj\Debug\Receiver.csproj.AssemblyReference.cache
+C:\Users\wind7\Desktop\MSMQ\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\wind7\Desktop\MSMQ\Receiver\obj\Debug\MSMQReceiver.exe
+C:\Users\wind7\Desktop\MSMQ\Receiver\obj\Debug\MSMQReceiver.pdb

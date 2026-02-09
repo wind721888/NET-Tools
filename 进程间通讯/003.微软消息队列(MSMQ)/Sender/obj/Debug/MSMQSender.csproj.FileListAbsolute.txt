@@ -1,0 +1,7 @@
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\bin\Debug\MSMQSender.exe.config
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\bin\Debug\MSMQSender.exe
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\bin\Debug\MSMQSender.pdb
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\obj\Debug\MSMQSender.csproj.AssemblyReference.cache
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\obj\Debug\MSMQSender.csproj.CoreCompileInputs.cache
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\obj\Debug\MSMQSender.exe
+C:\Users\wind7\Desktop\ConsoleApp1\MSMQSender\obj\Debug\MSMQSender.pdb
